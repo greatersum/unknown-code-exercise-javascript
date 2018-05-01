@@ -1,0 +1,16 @@
+{
+  "name": "unknown-code-exercise-javascript",
+  "version": "1.0.0",
+  "description": "Unknown Code Exercise",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Greater Sum",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "karma": "^2.0.2",
+    "karma-jasmine": "^1.1.1",
+    "karma-chrome-launcher": "^2.2.0"
+  }
+}
